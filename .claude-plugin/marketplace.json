@@ -1,9 +1,10 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "skills-dev",
-  "description": "Developer tooling plugins for the Humanists UK monorepo",
   "owner": {
     "name": "Humanists UK"
+  },
+  "metadata": {
+    "description": "Developer tooling plugins for the Humanists UK monorepo"
   },
   "plugins": [
     {
