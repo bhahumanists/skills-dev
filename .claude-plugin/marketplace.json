@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "name": "php-lsp",
+      "description": "PHP language server (Intelephense) with CiviCRM/WordPress stubs and diagnostic tuning",
+      "version": "1.0.0",
+      "author": {
+        "name": "Humanists UK"
+      },
+      "source": "./plugins/php-lsp",
+      "category": "development"
+    }
+  ]
+}

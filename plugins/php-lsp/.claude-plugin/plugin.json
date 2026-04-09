@@ -1,0 +1,9 @@
+{
+  "name": "php-lsp",
+  "version": "1.0.0",
+  "description": "PHP language server (Intelephense) with CiviCRM/WordPress stubs and diagnostic tuning",
+  "author": {
+    "name": "Humanists UK"
+  },
+  "lspServers": "./.lsp.json"
+}
