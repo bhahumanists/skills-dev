@@ -10,7 +10,8 @@
         "environment": {
           "phpVersion": "8.3.0",
           "includePaths": [
-            "civicrm_custom/extension/phpstan-api4-stubs.php"
+            "civicrm_custom/extension/phpstan-api4-stubs.php",
+            "civicrm_custom/extension/phpstan-wordpress-custom-stubs.php"
           ]
         },
         "stubs": [
